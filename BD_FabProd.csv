@@ -1,0 +1,76 @@
+Ano;Região;Produto;Valor Unitário;Vendas;Promoção
+2020;Sul;Shampoo com Cera;15.08;1822.0;0
+2020;Sul;Limpa Pneus;9.77;10192.0;1
+2020;Sul;Cera liquida;12.38;3949.0;0
+2020;Sul;Desengraxante;10.93;2296.0;1
+2020;Sul;Limpa Vidros;11.17;8210.0;0
+2020;Sudeste;Shampoo com Cera;15.08;9970.0;0
+2020;Sudeste;Limpa Pneus;10.86;4600.0;0
+2020;Sudeste;Cera liquida;12.38;9186.0;0
+2020;Sudeste;Desengraxante;10.93;9174.2;1
+2020;Sudeste;Limpa Vidros;10.05;3780.0;1
+2020;Norte;Shampoo com Cera;15.08;7084.0;0
+2020;Norte;Limpa Pneus;10.86;2299.0;0
+2020;Norte;Cera liquida;12.38;8442.0;0
+2020;Norte;Desengraxante;12.14;1757.0;0
+2020;Norte;Limpa Vidros;10.05;6994.4;1
+2020;Nordeste;Shampoo com Cera;13.57;6095.6;1
+2020;Nordeste;Limpa Pneus;9.77;8904.0;1
+2020;Nordeste;Cera liquida;12.38;3069.0;0
+2020;Nordeste;Desengraxante;12.14;4236.0;0
+2020;Nordeste;Limpa Vidros;11.17;4847.0;0
+2020;Centro-Oeste;Shampoo com Cera;15.08;4327.0;0
+2020;Centro-Oeste;Limpa Pneus;10.86;5952.0;0
+2020;Centro-Oeste;Cera liquida;12.38;5674.0;0
+2020;Centro-Oeste;Desengraxante;12.14;6381.0;0
+2020;Centro-Oeste;Limpa Vidros;11.17;9746.0;0
+2021;Sul;Shampoo com Cera;15.08;3410.0;0
+2021;Sul;Limpa Pneus;9.77;9556.4;1
+2021;Sul;Cera liquida;11.14;8885.8;1
+2021;Sul;Desengraxante;12.14;3420.0;0
+2021;Sul;Limpa Vidros;11.17;5713.0;0
+2021;Sudeste;Shampoo com Cera;15.08;5089.0;0
+2021;Sudeste;Limpa Pneus;9.77;9805.6;1
+2021;Sudeste;Cera liquida;12.38;2593.0;0
+2021;Sudeste;Desengraxante;10.93;9676.8;1
+2021;Sudeste;Limpa Vidros;11.17;7096.0;0
+2021;Norte;Shampoo com Cera;15.08;7175.0;0
+2021;Norte;Limpa Pneus;9.77;5471.2;1
+2021;Norte;Cera liquida;12.38;4026.0;0
+2021;Norte;Desengraxante;12.14;1815.0;0
+2021;Norte;Limpa Vidros;11.17;7817.0;0
+2021;Nordeste;Shampoo com Cera;15.08;9794.0;0
+2021;Nordeste;Limpa Pneus;10.86;6143.0;0
+2021;Nordeste;Cera liquida;12.38;4363.0;0
+2021;Nordeste;Desengraxante;12.14;4389.0;0
+2021;Nordeste;Limpa Vidros;11.17;3410.0;0
+2021;Centro-Oeste;Shampoo com Cera;15.08;6830.0;0
+2021;Centro-Oeste;Limpa Pneus;10.86;4263.0;0
+2021;Centro-Oeste;Cera liquida;12.38;7990.0;0
+2021;Centro-Oeste;Desengraxante;12.14;7921.0;0
+2021;Centro-Oeste;Limpa Vidros;10.05;11121.6;1
+2022;Sul;Shampoo com Cera;15.08;6851.0;0
+2022;Sul;Limpa Pneus;9.77;10761.8;1
+2022;Sul;Cera liquida;12.38;3838.0;0
+2022;Sul;Desengraxante;10.93;3515.4;1
+2022;Sul;Limpa Vidros;11.17;8419.0;0
+2022;Sudeste;Shampoo com Cera;13.57;11139.8;1
+2022;Sudeste;Limpa Pneus;9.77;9770.6;1
+2022;Sudeste;Cera liquida;11.14;4086.6;1
+2022;Sudeste;Desengraxante;12.14;5564.0;0
+2022;Sudeste;Limpa Vidros;11.17;2115.0;0
+2022;Norte;Shampoo com Cera;15.08;6155.0;0
+2022;Norte;Limpa Pneus;10.86;8472.0;0
+2022;Norte;Cera liquida;11.14;9310.0;1
+2022;Norte;Desengraxante;12.14;8285.0;0
+2022;Norte;Limpa Vidros;11.17;8215.0;0
+2022;Nordeste;Shampoo com Cera;15.08;8402.0;0
+2022;Nordeste;Limpa Pneus;10.86;5021.0;0
+2022;Nordeste;Cera liquida;12.38;1679.0;0
+2022;Nordeste;Desengraxante;12.14;5873.0;0
+2022;Nordeste;Limpa Vidros;10.05;6538.0;1
+2022;Centro-Oeste;Shampoo com Cera;15.08;3385.0;0
+2022;Centro-Oeste;Limpa Pneus;10.86;9810.0;0
+2022;Centro-Oeste;Cera liquida;12.38;2333.0;0
+2022;Centro-Oeste;Desengraxante;12.14;9220.0;0
+2022;Centro-Oeste;Limpa Vidros;11.17;8451.0;0
